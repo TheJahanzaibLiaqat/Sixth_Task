@@ -1,0 +1,60 @@
+.bg-grey {
+    background-color: lightgrey;
+    height: 605px;
+    width: 25%;
+}
+
+.bgg {
+    width: 700px;
+    height: 605px;
+}
+
+.text-grey {
+    color: gray;
+}
+.space {
+    height: 20px;
+}
+
+.font {
+    font-size: small;
+}
+.bg-gray {
+    background-color: lightgrey;
+    height: 45px;
+}
+
+.bg {
+    height: 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bg-grey1 {
+    height: 605px; 
+    width: 25%;
+    background-color: lightgrey;
+}
+
+.mm {
+    padding-top: 2px;
+}
+
+.font1 {
+    font-size: small;
+    padding-top: 2px;
+}
+
+.ms-6 {
+    margin-left: 19px;
+}
+
+.pp {
+    height: 60px;
+}
+
+.pp1 {
+    height: 85px;
+}
